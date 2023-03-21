@@ -38,21 +38,21 @@
     opacity: 0.5;
 }
 
-.scene-1 {
+.wrapper {
     perspective: 800px;
     perspective-origin: 50% 100px;
     margin-left: 100px;
     margin-top: 100px;
 }
 
-.cube {
+.scene-1 {
     position: relative;
     width: 200px;
     transform-style: preserve-3d;
     animation: spin 5s infinite linear;
 }
 
-.cube div {
+.scene-1 div {
     position: absolute;
     width: 200px;
     height: 200px;
