@@ -38,7 +38,7 @@
     opacity: 0.5;
 }
 
-.wrapper {
+.scene-1 {
     perspective: 800px;
     perspective-origin: 50% 100px;
     margin-left: 100px;
