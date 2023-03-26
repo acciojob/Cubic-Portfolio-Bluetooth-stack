@@ -5,7 +5,7 @@
 }
 
 .right {
-    transform: rotateY(-270deg) translateX(100px);
+    transform: matrix3d(6.12323e-17, 0, -1, 0, 0, 1, 0, 0, 1, 0, 6.12323e-17, 0, 442, 0, 9.18485e-15, 1);
     transform-origin: top right;
     background-color: green;
     opacity: 0.5;
