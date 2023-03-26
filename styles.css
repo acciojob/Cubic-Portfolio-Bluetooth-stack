@@ -33,7 +33,7 @@
 }
 
 .front {
-    transform: translateZ(100px);
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 442, 1);
     background-color: blue;
     opacity: 0.5;
 }
