@@ -26,7 +26,7 @@
 }
 
 .bottom {
-    transform: rotateX(90deg) translateY(100px);
+    transform: matrix3d(1, 0, 0, 0, 0, 6.12323e-17, -1, 0, 0, 1, 6.12323e-17, 0, 0, 442, 9.18485e-15, 1);
     transform-origin: bottom center;
     background-color: orange;
     opacity: 0.5;
